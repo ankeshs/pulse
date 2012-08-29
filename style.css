@@ -1,0 +1,19 @@
+#group
+{
+	height: 150px;
+	width: 500px;
+	overflow: auto;
+	border: 1px solid black;
+}
+#group span
+{
+	margin: 10px;
+}
+#group a{
+	text-decoration: none;
+	color: #4d4d4d;
+	
+}
+#group a:hover{
+	color: red;
+}
